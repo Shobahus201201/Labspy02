@@ -70,7 +70,7 @@ if N>0:
 ```
 Seperti inilah hasil akhirnya 
 
-![Hasil](Foto/ss7.png)
+![Hasil](Foto/ss7.PNG)
 
 ## MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
 __________________________________________________________________________________
