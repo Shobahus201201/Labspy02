@@ -79,12 +79,12 @@ Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubah
 ![Flowchart](Foto/ss6.PNG)
 
 Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu 
-```python
-http://www.flowgorithm.org/download/index.htm
-```
+
+[clickHere](http://www.flowgorithm.org/download/)
+
 Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
 
-![Download Flow](https://user-images.githubusercontent.com/72906579/98425077-74325080-20c6-11eb-8cc6-4a64210e290a.png)
+![Download Flow](Foto/download1.PNG)
 
 Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
