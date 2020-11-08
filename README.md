@@ -51,7 +51,7 @@ if N>0:
 Selanjutnya kalian bisa langsung  memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan dengan baik seperti pada gambar 
 dibawah ini.
 
-![Nilai Max](Foto/ss3.png)
+![Nilai Max](Foto/shoba2.PNG)
 
 Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan syntax
 ```python
