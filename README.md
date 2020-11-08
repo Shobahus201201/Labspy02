@@ -24,7 +24,7 @@ c = int(input("Masukkan bilangan 3: "))
 ```
 Masukan syntax tersebut dengan angka yang kalian inginkan. 
 
-![Input](Foto/ss2.PNG)
+![Input](Foto/shoba1.PNG)
 
 Jika sudah mendapat tampilan seperti gambar diatas, maka kalian sudah berhasil menginput ketiga data tersebut. <br>
 
