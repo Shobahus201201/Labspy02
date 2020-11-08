@@ -78,9 +78,7 @@ Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubah
 
 ![Flowchart](Foto/ss6.PNG)
 
-Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu 
-
-[clickHere](http://www.flowgorithm.org/download/)
+Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu :[clickHere](http://www.flowgorithm.org/download/) 
 
 Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
 
@@ -88,14 +86,16 @@ Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat se
 
 Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
-![Flow Step1](https://user-images.githubusercontent.com/72906579/98389639-e5eaaa00-2086-11eb-9dd2-107a642334ff.png)
+![Flow Step1](Foto/shoba12.png)
 
 Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.
 
 Jika kalian sudah mengerjakannya hingga akhir, maka step akhir adalah kalian hanya perlu mengecek apakah flowchart tersebut sudah bekera dengan
 baik atau belum dengan cara sebagai berikut
 
-![Flow Step2](https://user-images.githubusercontent.com/72906579/98391855-cbfe9680-2089-11eb-8062-164af41a5509.png)
+![Flow Step2](Foto/ss5.PNG)
 
 Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian buat sudah benar dan bekerja 
 dengan baik.
+
+## TERIMA KASIH
