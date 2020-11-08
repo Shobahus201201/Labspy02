@@ -24,7 +24,7 @@ c = int(input("Masukkan bilangan 3: "))
 ```
 Masukan syntax tersebut dengan angka yang kalian inginkan. 
 
-![Input](https://user-images.githubusercontent.com/72906579/98377627-a36da100-2077-11eb-92f9-eae34d6ae1e4.png)
+![Input](Foto/ss2.PNG)
 
 Jika sudah mendapat tampilan seperti gambar diatas, maka kalian sudah berhasil menginput ketiga data tersebut. <br>
 
@@ -51,7 +51,7 @@ if N>0:
 Selanjutnya kalian bisa langsung  memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan dengan baik seperti pada gambar 
 dibawah ini.
 
-![Nilai Max](https://user-images.githubusercontent.com/72906579/98377631-a49ece00-2077-11eb-9e95-67a1316b4121.png)
+![Nilai Max](Foto/ss3.png)
 
 Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan syntax
 ```python
@@ -70,9 +70,9 @@ if N>0:
 ```
 Seperti inilah hasil akhirnya 
 
-![Hasil](https://user-images.githubusercontent.com/72906579/98377618-a1a3dd80-2077-11eb-9918-f355e5c74bdc.png)
+![Hasil](Foto/ss7.png)
 
-##### MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
+## MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
 __________________________________________________________________________________
 Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk flowchart seperti ini
 
